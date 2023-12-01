@@ -1,4 +1,4 @@
 # CODSOFT
-#Calculator\n
-#Movie Website 
+#Calculator                                                                                                                                                                                                             
+#Movie Website                                                                                                                                                                                                          
 #Portfolio
